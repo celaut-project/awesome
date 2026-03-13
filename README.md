@@ -1,3 +1,3 @@
 # awesome
 
-[Demo service](https://github.com/dot-service-forks/demo-celaut-basics)
+[Demo service](https://github.com/celaut-basics/demo-service)
